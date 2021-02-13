@@ -27,12 +27,20 @@ First Init : 1998년 11월 29일
 ### ETC
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="38" height="38"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="38" height="38"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/jenkins.svg" alt="jenkins" width="38" height="38"/> </a>
+<a href="https://www.nginx.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/nginx.svg" alt="nginx" width="38" height="38"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="38" height="38"/> </a>
+
 
 ## 📋 Career
 ### [호디](http:/www.hodi.co.kr/) (2017.01 ~ 2021.02)
 도서관 솔류션 개발팀
  - After Add....
+
+
+
+
+
 
 <!--
 emoji : https://github.com/itgoyo/itgoyo/blob/master/Emoji.md
