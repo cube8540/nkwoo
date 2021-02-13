@@ -1,7 +1,7 @@
 ![Welcome! Here is NKWOO](https://raw.githubusercontent.com/nkwoo/nkwoo/main/oie_p2YBVjmVtiD3.png)
 
 <h2 align="center">백엔드 프로그래머가 되고싶은 NKWOO(Nam Kyung Woo) 입니다.</h2>
-<h3 align="center">항상 어디서든 도움이 되도록 노력 중입니다! 😆</h3>
+<h3 align="center">항상 어디서든 도움이 되도록 노력 중입니다</h3>
 
 ## 👊 Introduce
 First Init : 1998년 11월 29일  
