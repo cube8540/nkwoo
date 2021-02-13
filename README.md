@@ -6,6 +6,7 @@
 ## 👊 Introduce
 First Init : 1998년 11월 29일  
 병적 사항 : 산업기능요원 복무 종료(2018.01 ~ 2020.11)
+Personal color : #209cee / rgb(32 156 238)
 
 ## 📘 Languages
 ### BackEnd (Main Force)
