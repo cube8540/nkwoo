@@ -20,7 +20,7 @@ First Init : 1998년 11월 29일
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="38" height="38"/> </a>
 
 ### DBMS
-<a href="https://dev.mysql.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg " alt="mysql" width="38" height="38"/> </a>
+<a href="https://dev.mysql.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="38" height="38"/> </a>
 <a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mariadb-icon.svg" alt="mariadb" width="38" height="38"/> </a>
 <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://cdn.svgporn.com/logos/oracle.svg" alt="oracle" width="38" height="38"/> </a>
 
