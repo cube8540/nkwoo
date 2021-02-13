@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Welcome! Here is NKWOO](https://raw.githubusercontent.com/nkwoo/nkwoo/main/oie_p2YBVjmVtiD3.png)
 <!--
 **nkwoo/nkwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
