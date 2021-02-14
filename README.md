@@ -8,7 +8,7 @@ First Init : 1998년 11월 29일
 병적 사항 : 산업기능요원 복무 종료(2018.01 ~ 2020.11)  
 Personal color : #209cee / rgb(32 156 238)
 
-## 📘 Languages
+## 📘 Languages And Tools
 ### BackEnd (Main Force)
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="38" height="38"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="38" height="38"/> </a>
@@ -32,18 +32,16 @@ Personal color : #209cee / rgb(32 156 238)
 <a href="https://www.nginx.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/nginx.svg" alt="nginx" width="38" height="38"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="38" height="38"/> </a>
 
-
+<!--
 ## 📋 Career
 ### [호디](http:/www.hodi.co.kr/) (2017.01 ~ 2021.02)
-도서관 솔류션 개발팀
- - After Add....
+도서관 솔류션 개발팀 - 소프트웨어 엔지니어
+ - 대학교 열람실 배정 / 시설물 예약 관리 시스템 
 
 
 
 
 
-
-<!--
 emoji : https://github.com/itgoyo/itgoyo/blob/master/Emoji.md
 log : https://svgporn.com/
 
