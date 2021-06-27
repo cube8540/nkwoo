@@ -28,34 +28,42 @@
 |DevOps|Docker, Nginx, Apache, Tomcat, Jenkins, Sentry, Intellij, Selenium, Git|
 
 ### BackEnd (Main Force)
-<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="38" height="38"/>
-<img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="spring" width="38" height="38"/>
+<p float="left">
+    <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="38" height="38"/>
+    <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="spring" width="38" height="38"/>
+</p>
 
 ### Front
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="38" height="38"/>
+<p float="left">
+    <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="38" height="38"/>
+</p>
 
 ### DBMS
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/mariadb-icon.svg" alt="mariadb" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/oracle.svg" alt="oracle" width="38" height="38"/>
+<p float="left">
+    <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/mariadb-icon.svg" alt="mariadb" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/oracle.svg" alt="oracle" width="38" height="38"/>
+</p>
 
 ### ETC
-<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/nginx.svg" alt="nginx" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/apache.svg" alt="apache" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/tomcat.svg" alt="tomcat" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/jenkins.svg" alt="jenkins" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/sentry-icon.svg" alt="sentry" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/intellij-idea.svg" alt="intellij" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/nodemon.svg" alt="nodemon" width="38" height="38"/>
-<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="38" height="38"/>
-
-> 기술이 전부는 아니지만 최대한 잘 굴려먹을 수 있습니다.
+<p float="left">
+    <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/nginx.svg" alt="nginx" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/apache.svg" alt="apache" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/tomcat.svg" alt="tomcat" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/jenkins.svg" alt="jenkins" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/sentry-icon.svg" alt="sentry" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/intellij-idea.svg" alt="intellij" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/nodemon.svg" alt="nodemon" width="38" height="38"/>
+    <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="38" height="38"/>
+</p>
+    
+> 기술을 알고있는 만큼 더 잘 굴려먹을 줄 압니다.
 
 ## 📘 경력
 
