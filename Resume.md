@@ -1,24 +1,28 @@
-# 이력서
+# Resume
 
-### 항상 어디서든 필요로 하는 개발자가 되자.
+## 남경우(NamKyungWoo)
 
-## ✌ 소개
+<img src="https://raw.githubusercontent.com/nkwoo/nkwoo/main/static/who-is-he.jpg" alt="NKWOO" width="350" height="350"/>
 
-~~추후 이미지 첨부~~
+> 항상 어디서든 필요로 하는 개발자가 되자.
 
-🔥 Backend Developer
 
-- 이름: 남경우
-- 병역사항: 2020년 11월 병역특례 전역
-- 생년월일: 1998년 11월 29일
-- 좋아하는 색상: #209cee / rgb(32 156 238)
+## ✌ Who Are You?
+
+|인적사항|정보|
+|:---:|:---:|
+|주 업무|🔥 Backend Developer|
+|이름|남경우(NamKyungWoo)|
+|병역사항|2020년 11월 병역특례 전역
+|생년월일|1998년 11월 29일|
+|좋아하는 색상|#209cee / rgb(32 156 238)|
 
 ## 📇  Contact
 
 - Github: [https://github.com/nkwoo](https://github.com/nkwoo)
 - Email: [nkw9986@gmail.com](mailto:nkw9986@gmail.com)
 
-## 🛠️ 기술 정보
+## 🛠️ Tech
 
 |Tech|Stack|
 |:---:|---|
@@ -62,22 +66,21 @@
     <img src="https://cdn.svgporn.com/logos/nodemon.svg" alt="nodemon" width="38" height="38"/>
     <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="38" height="38"/>
 </p>
-    
+
 > 기술을 알고있는 만큼 더 잘 굴려먹을 줄 압니다.
 
-## 📘 경력
+## 📘 Work Experience
 
-### [(주)호디](http://www.hodi.co.kr) (2017.01 ~ 2021.02)
-
-#### 소프트웨어 개발자
+### (주)호디
+#### (2017.01 ~ 2021.02) - 소프트웨어 개발자
 
 - 도서관 좌석관리 시스템 유지보수
     - ```PHP, Apache, MySQL, GnuBoard```
     - APM Framework Version Up 작업 수행 (MySQL 5 -> 7, Apache 2.2 -> 2.4, Php 5 -> 7).
     - Critical Security Issue(SQL injection) 처리 수행.
     - 프로그램 사용 도서관: 전국 도서관 100+
-    
-- 신규 도서관 좌석관리 / 시설물 예약관리 시스템 관리자 페이지 제작 
+
+- 신규 도서관 좌석관리 / 시설물 예약관리 시스템 관리자 페이지 제작
     - ```Jsp, Servlet, JQuery, Oracle```
     - 기존 도서관 좌석관리 시스템에 있는 관리자 기능 마이그레이션 작업 수행.
     - 좌석예약 기능에 있어 사용자 제한, 관리자 예약, 예약/사용자 관리 구현.
@@ -93,7 +96,7 @@
     - 키오스크 연계시 누락된 로그인 계정 통합화 부분 수정.
     - 여러 도서관이 각각의 유저 인증 테이블로 인증 되도록 소스 개선 작업 수행.
     - 기존 REST API에 추가 정보 제공.
-    
+
 - 국회 도서관 좌석 관리 시스템 개발
     - ```Spring Boot, Angular```
     - 모바일 반응형 및 PC 페이지 디자인 변경 작업 수행.
@@ -106,7 +109,7 @@
     - Jenkins을 도입하여 서비스 배포 자동화.
     - Legacy Code 개선 작업 수행.
     - Adobe Flash Player 지원중단으로 HTML5로 개선 작업 수행.
-    
+
 - 원격지침 계량기
     - ```Spring Boot, Oracle, Sentry```
     - 소스코드 리뷰를 수행하여 코드 퀄리티 개선 기여.
@@ -114,6 +117,4 @@
 
 ## ✨ Project
 
-- 방송통신대학교 파일 다운로더 [Knou Downloader](https://github.com/nkwoo/knou-downloader) (2021.06 ~ 진행중)
-
-- 디스코드 봇 [Discord Bot](https://github.com/nkwoo/discord-bot) (2019.10 ~ 2020.05(현재도 기능 추가중))
+- 디스코드 봇 [Discord Bot](https://github.com/nkwoo/discord-bot) (2019.10 ~ 2020.05)
