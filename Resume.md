@@ -4,10 +4,20 @@
 
 <img src="https://raw.githubusercontent.com/nkwoo/nkwoo/main/static/who-is-he.jpg" alt="NKWOO" width="350" height="350"/>
 
+## 👇 Read Down
+
+개발자란 무엇일까요? 
+- 의사소통이 안되지만 코드는 잘짜는 사람?
+- 맨날 하던것만 하는 사람?
+- 두려워서 새로운 시도를 못하는 사람?
+
+저는 전부다 개발자라고 생각합니다. 하지만 함께 코드를 짜며 오래볼 수 있는 개발자는 아니라고 생각합니다.
+
+개발자에 대한 정의가 무엇인지 매순간 고민하지만 나름 재미있게 개발하고 새롭고 신기한 기술을 좋아하는 개발자를 목표로 임하고 있습니다.
+
 > 항상 어디서든 필요로 하는 개발자가 되자.
 
-
-## ✌ Who Are You?
+## ✌ Wait a minuite Who Are You?
 
 |인적사항|정보|
 |:---:|:---:|
@@ -16,6 +26,7 @@
 |병역사항|2020년 11월 병역특례 전역
 |생년월일|1998년 11월 29일|
 |좋아하는 색상|#209cee / rgb(32 156 238)|
+|좋아하는 QR코드|<img src="https://raw.githubusercontent.com/nkwoo/nkwoo/main/static/qr.png" alt="XD" width="150" height="150"/>|
 
 ## 📇  Contact
 
@@ -68,6 +79,7 @@
 </p>
 
 > 기술을 알고있는 만큼 더 잘 굴려먹을 줄 압니다.
+> ``새로운 기술은 언제든지 환영이야 레거시만 빼고 -NKWOO-``
 
 ## 📘 Work Experience
 
