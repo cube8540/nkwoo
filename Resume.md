@@ -26,7 +26,6 @@
 |병역사항|2020년 11월 병역특례 전역
 |생년월일|1998년 11월 29일|
 |좋아하는 색상|#209cee / rgb(32 156 238)|
-|좋아하는 QR코드|<img src="https://raw.githubusercontent.com/nkwoo/nkwoo/main/static/qr.png" alt="XD" width="150" height="150"/>|
 
 ## 📇  Contact
 
@@ -79,7 +78,8 @@
 </p>
 
 > 기술을 알고있는 만큼 더 잘 굴려먹을 줄 압니다.
-> ``새로운 기술은 언제든지 환영이야 레거시만 빼고 -NKWOO-``
+
+> 좋은 기술, 새로운 기술 언제든지 피드백, 추천 받습니다.
 
 ## 📘 Work Experience
 
