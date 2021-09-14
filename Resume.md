@@ -17,7 +17,7 @@
 
 > 항상 어디서든 필요로 하는 개발자가 되자.
 
-## ✌ Wait a minuite Who Are You?
+## ✌ Wait a minute Who Are You?
 
 |인적사항|정보|
 |:---:|:---:|
